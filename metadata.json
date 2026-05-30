@@ -1,0 +1,6 @@
+{
+  "name": "Kinkin Michan Truyện",
+  "description": "Website đọc truyện tranh chất lượng cao, cập nhật liên tục đầy đủ các thể loại truyện từ OTruyen API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
